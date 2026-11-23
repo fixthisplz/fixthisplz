@@ -30,3 +30,6 @@ data/
 !.vscode/extensions.json
 .DS_Store
 Thumbs.db
+
+# Local AI assistant instructions
+CLAUDE.local.md
